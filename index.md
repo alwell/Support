@@ -15,23 +15,6 @@ Beginners Buddhism [http://www.scribd.com/collections/4454724/Beginners-Buddhism
 Beginners Abhidhamma [http://www.scribd.com/collections/4454959/Beginners-Abhidhamma](http://www.scribd.com/collections/4454959/Beginners-Abhidhamma)
 
 Books on Abhidhamma [http://www.scribd.com/collections/4454521/Abhidhamma](http://www.scribd.com/collections/4454521/Abhidhamma)
- 
-### Books in print 
-(available from Amazon USA and UK)
- 
-- The Buddha's Path (hardback only, published May 1st 2014)
-- Cetasikas (hardback only, published May 1st 2014)
-- Buddhism in Daily Life  (hardback only)
-- Abhidhamma in Daily Life  (hardback only)
-- The Conditionality of life 
-- The Buddhist Teaching on Physical Phenomena 
-- The Perfections leading to Enlightenment 
-- A Survey of Paramattha Dhammas  (hardback only)
-
-Further details of the above books can be found here: [Archive.org](http://archive.org/bookmarks/Alan%20Weller)
-
-### Book Reviews
-[https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md](https://github.com/alwell/Zolag_Archive/blob/master/Reviews.md)
 
 ### NEWS
 'Higher reality'. higher learning? This paper will be presented to the EDULEARN 2017 conference in Barcelona 2-4th July 2017. https://iated.org/edulearn/
