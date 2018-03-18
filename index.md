@@ -21,7 +21,7 @@ Books on Abhidhamma [http://www.scribd.com/collections/4454521/Abhidhamma](http:
 
 #### News
 
-https://twitter.com/AlanWeller
+[https://twitter.com/AlanWeller](https://twitter.com/AlanWeller)
 
 #### Work in Progress:
 
