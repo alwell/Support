@@ -16,16 +16,7 @@ Beginners Abhidhamma [http://www.scribd.com/collections/4454959/Beginners-Abhidh
 
 Books on Abhidhamma [http://www.scribd.com/collections/4454521/Abhidhamma](http://www.scribd.com/collections/4454521/Abhidhamma)
 
-### NEWS
-'Higher reality'. higher learning? This paper will be presented to the EDULEARN 2017 conference in Barcelona 2-4th July 2017. https://iated.org/edulearn/
 
-Synthesized Presentation here:
-
-[https://youtu.be/bJqLJaSsnBk](https://youtu.be/bJqLJaSsnBk)
-
-Online presentation here:
-
-[https://www.haikudeck.com/higher-reality-higher-learning-education-presentation-0X8JKQ1W87](https://www.haikudeck.com/higher-reality-higher-learning-education-presentation-0X8JKQ1W87)
 
 
 #### News
