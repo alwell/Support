@@ -28,9 +28,9 @@ Online presentation here:
 [https://www.haikudeck.com/higher-reality-higher-learning-education-presentation-0X8JKQ1W87](https://www.haikudeck.com/higher-reality-higher-learning-education-presentation-0X8JKQ1W87)
 
 
-#### News Blog and comments:
+#### News
 
-[http://alwell.github.io](http://alwell.github.io)
+https://twitter.com/AlanWeller
 
 #### Work in Progress:
 
