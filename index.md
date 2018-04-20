@@ -20,6 +20,7 @@ Books on Abhidhamma [http://www.scribd.com/collections/4454521/Abhidhamma](http:
 
 
 #### News
+Why is mindfulness is harming school children? See link below:
 
 [https://twitter.com/AlanWeller](https://twitter.com/AlanWeller)
 
