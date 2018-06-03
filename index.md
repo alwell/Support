@@ -22,7 +22,7 @@ Books on Abhidhamma [http://www.scribd.com/collections/4454521/Abhidhamma](http:
 #### News
 Why mindfulness may be harming pupils? See link below:
 
-[https://twitter.com/AlanWeller](https://twitter.com/AlanWeller)
+[https://alwell.github.io/Misconceptions-in-Mindfulness/](https://alwell.github.io/Misconceptions-in-Mindfulness/)
 
 #### Work in Progress:
 
