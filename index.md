@@ -68,6 +68,10 @@ The most important moment <https://youtu.be/4fvVxfz-uuc>
 
 Higher Reality, higher learning <https://youtu.be/bJqLJaSsnBk>
 
+#### Sarah's notes
+
+<https://alwell.github.io/Sarah-s-notes/>
+
 
 
 
