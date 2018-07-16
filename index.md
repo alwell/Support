@@ -80,5 +80,5 @@ Higher Reality, higher learning <https://youtu.be/bJqLJaSsnBk>
 
 ### CONTACT Zolag: 
 
-[http://alwell.github.io/about](http://alwell.github.io/about)
+[Contact Zolag](https://docs.google.com/forms/d/e/1FAIpQLSf5lxYq2sVNpwgGuSzN51IMZVEdLB_KhzTKzqvW3hQo9CcZVg/viewform?usp=sf_link)
 
