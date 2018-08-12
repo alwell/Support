@@ -38,10 +38,6 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 
 ### Resources:
 
-#### Buy the Pali Canon here:
-
-http://www.palitext.com/
-
 #### Online resources for the Pali Canon here:
 
 [http://www.palitext.com/](http://www.palicanon.org/)
