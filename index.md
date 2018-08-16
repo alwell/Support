@@ -58,7 +58,7 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 
 #### YouTube
 
-The most important moment <https://youtu.be/4fvVxfz-uuc>
+The most important moment <https://youtu.be/v-BzXXReu_4>
 
 5 Misconceptions in Mindfulness <https://youtu.be/6yumN14By34>
 
