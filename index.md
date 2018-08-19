@@ -57,12 +57,7 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 [14 Big Ideas of Buddhism and others](http://alwell.github.io/Decks/)
 
 #### YouTube
-
-The most important moment <https://youtu.be/v-BzXXReu_4>
-
-5 Misconceptions in Mindfulness <https://youtu.be/6yumN14By34>
-
-Higher Reality, higher learning <https://youtu.be/bJqLJaSsnBk>
+[YouTube channel link] (https://www.youtube.com/channel/UCWFU7FoWO_uVoITo-eYgNuQ?view_as=subscriber)
 
 #### Sarah's notes
 
