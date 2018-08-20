@@ -19,8 +19,6 @@ https://legacy.gitbook.com/@alwell
 #### News
 Twitter feed [https://twitter.com/AlanWeller](https://twitter.com/AlanWeller)
 
-[https://alwell.github.io/Misconceptions-in-Mindfulness/](https://alwell.github.io/Misconceptions-in-Mindfulness/)
-
 #### Work in Progress:
 
 [https://github.com/alwell/Zolag_Archive/wiki](https://github.com/alwell/Zolag_Archive/wiki)
