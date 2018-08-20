@@ -11,6 +11,10 @@ Original files for editing can be found here: [https://github.com/alwell/Zolag_A
 
 [https://openlibrary.org/people/alanweller/lists](https://openlibrary.org/people/alanweller/lists)
 
+### Books which can be read online
+
+https://legacy.gitbook.com/@alwell
+
 
 #### News
 Why mindfulness may be harming pupils? See link below:
@@ -19,7 +23,7 @@ Why mindfulness may be harming pupils? See link below:
 
 #### Work in Progress:
 
-[https://github.com/alwell/Zolag_Archive/blob/master/Work_in_Progress.md](https://github.com/alwell/Zolag_Archive/blob/master/Work_in_Progress.md)
+[https://github.com/alwell/Zolag_Archive/wiki](https://github.com/alwell/Zolag_Archive/wiki)
 
 ####  Mailing List
 
