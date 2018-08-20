@@ -17,7 +17,7 @@ https://legacy.gitbook.com/@alwell
 
 
 #### News
-Why mindfulness may be harming pupils? See link below:
+Twitter feed [https://twitter.com/AlanWeller](https://twitter.com/AlanWeller)
 
 [https://alwell.github.io/Misconceptions-in-Mindfulness/](https://alwell.github.io/Misconceptions-in-Mindfulness/)
 
@@ -41,6 +41,10 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 ---
 
 ### Resources:
+
+#### Why mindfulness may be harming pupils? See link below:
+
+[https://alwell.github.io/Misconceptions-in-Mindfulness/](https://alwell.github.io/Misconceptions-in-Mindfulness/)
 
 #### Online resources for the Pali Canon here:
 
