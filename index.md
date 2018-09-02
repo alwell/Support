@@ -71,7 +71,7 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 
 #### Glossary of Pali Terms
 
-https://groups.io/g/dsg/files/Glossary%20of%20Pali%20Terms.html
+[https://groups.io/g/dsg/files/Glossary%20of%20Pali%20Terms.html](https://groups.io/g/dsg/files/Glossary%20of%20Pali%20Terms.html)
 
 
 
