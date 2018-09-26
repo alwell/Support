@@ -13,7 +13,7 @@ Original files for editing can be found here: [https://github.com/alwell/Zolag_A
 
 ### Books which can be read online
 
-https://legacy.gitbook.com/@alwell
+[https://legacy.gitbook.com/@alwell/](https://legacy.gitbook.com/@alwell)
 
 
 #### News
