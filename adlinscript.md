@@ -1,3 +1,5 @@
+Note: This is an extract from 'Introduction to the Buddhist Scriptures' due to be published in April 2019
+
 Abhidhamma in the Scriptures
 ----------------------------
 
