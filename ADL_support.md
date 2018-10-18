@@ -3,6 +3,10 @@
 ### Press release for Abhidhamma in Daily Life
 [https://alwell.github.io/Book_details/adl_pr](https://alwell.github.io/Book_details/adl_pr)
 
+### HaikuDeck presentation
+
+[https://haikudeck.com/p/e948ec1798](https://haikudeck.com/p/e948ec1798)
+
 ### Understanding Reality
 
 A short 5 page article.
