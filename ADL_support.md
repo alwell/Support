@@ -3,7 +3,7 @@
 ### Press release for Abhidhamma in Daily Life
 [https://alwell.github.io/Book_details/adl_pr](https://alwell.github.io/Book_details/adl_pr)
 
-### HaikuDeck presentation
+### HaikuDeck presentation of 'Why Abidhamma in Daily Life'
 
 [https://haikudeck.com/p/e948ec1798](https://haikudeck.com/p/e948ec1798)
 
