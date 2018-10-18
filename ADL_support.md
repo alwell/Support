@@ -24,8 +24,8 @@ Extract from 'Introduction to the Buddhist Scriptures'
 
 - Why Abhidhamma?
 
-https://youtu.be/YJVepJsRm3o
+[https://youtu.be/YJVepJsRm3o](https://youtu.be/YJVepJsRm3o)
 
 - Why Abhidhamma in Daily Life?
 
-https://youtu.be/2c3Ek9R6oSs
+[https://youtu.be/2c3Ek9R6oSs](https://youtu.be/2c3Ek9R6oSs)
