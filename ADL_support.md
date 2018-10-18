@@ -8,6 +8,22 @@
 
 [https://haikudeck.com/p/e948ec1798](https://haikudeck.com/p/e948ec1798)
 
+#### Youtube
+
+- Why Abhidhamma in Daily Life?
+
+[https://youtu.be/2c3Ek9R6oSs](https://youtu.be/2c3Ek9R6oSs)
+
+- Why Abhidhamma?
+
+[https://youtu.be/YJVepJsRm3o](https://youtu.be/YJVepJsRm3o)
+
+#### Abhidhamma in the Scriptures
+Extract from 'Introduction to the Buddhist Scriptures'
+
+[https://alwell.github.io/Support/adlinscript](https://alwell.github.io/Support/adlinscript)
+
+
 #### Understanding Reality
 
 A short 5 page article.
@@ -15,17 +31,3 @@ A short 5 page article.
 [https://alwell.github.io/Support/ur](https://alwell.github.io/Support/ur)
 
 
-#### Abhidhamma in the Scriptures
-Extract from 'Introduction to the Buddhist Scriptures'
-
-[https://alwell.github.io/Support/adlinscript](https://alwell.github.io/Support/adlinscript)
-
-#### Youtube
-
-- Why Abhidhamma?
-
-[https://youtu.be/YJVepJsRm3o](https://youtu.be/YJVepJsRm3o)
-
-- Why Abhidhamma in Daily Life?
-
-[https://youtu.be/2c3Ek9R6oSs](https://youtu.be/2c3Ek9R6oSs)
