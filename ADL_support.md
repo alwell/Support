@@ -1,25 +1,26 @@
-# Support for 'Abhidhamma in Daily Life'
+## Support for 'Abhidhamma in Daily Life'
 
-### Press release for Abhidhamma in Daily Life
+#### Press release for Abhidhamma in Daily Life
+
 [https://alwell.github.io/Book_details/adl_pr](https://alwell.github.io/Book_details/adl_pr)
 
-### 'Why Abidhamma in Daily Life' HaikuDeck presentation
+#### 'Why Abidhamma in Daily Life' HaikuDeck presentation
 
 [https://haikudeck.com/p/e948ec1798](https://haikudeck.com/p/e948ec1798)
 
-### Understanding Reality
+#### Understanding Reality
 
 A short 5 page article.
 
 [https://alwell.github.io/Support/ur](https://alwell.github.io/Support/ur)
 
 
-### Abhidhamma in the Scriptures
+#### Abhidhamma in the Scriptures
 Extract from 'Introduction to the Buddhist Scriptures'
 
 [https://alwell.github.io/Support/adlinscript](https://alwell.github.io/Support/adlinscript)
 
-### Youtube
+#### Youtube
 
 - Why Abhidhamma?
 - Why Abhidhamma in Daily Life?
