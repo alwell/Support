@@ -16,7 +16,7 @@ Original files for editing can be found here: [https://github.com/alwell/Zolag_A
 [https://legacy.gitbook.com/@alwell/](https://legacy.gitbook.com/@alwell)
 
 ### Why study Abhidhamma?
-[https://alwell.github.io/Support/adl_support](https://alwell.github.io/Support/adl_support)
+[https://alwell.github.io/Support/ADL_support](https://alwell.github.io/Support/adl_support)
 
 
 #### News
