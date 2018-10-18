@@ -1,6 +1,5 @@
 # Support for 'Abhidhamma in Daily Life'
 
-
 ### Press release for Abhidhamma in Daily Life
 [https://alwell.github.io/Book_details/adl_pr](https://alwell.github.io/Book_details/adl_pr)
 
@@ -15,3 +14,8 @@ A short 5 page article.
 Extract from 'Introduction to the Buddhist Scriptures'
 
 [https://alwell.github.io/Support/adlinscript](https://alwell.github.io/Support/adlinscript)
+
+### Youtube
+
+- Why Abhidhamma?
+- Why Abhidhamma in Daily Life?
