@@ -20,7 +20,7 @@
 
 - Understanding Anatta
 
-[https://youtu.be/7gUf8ZOi4Qk](https://youtu.be/7gUf8ZOi4Qk)
+[https://youtu.be/s1lMyPl5ZXg](https://youtu.be/s1lMyPl5ZXg)
 
 #### Abhidhamma in the Scriptures
 Extract from 'Introduction to the Buddhist Scriptures'
