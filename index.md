@@ -7,9 +7,6 @@ Our Archive can be found here [Archive.org](http://archive.org/bookmarks/Alan%20
 
 Original files for editing can be found here: [https://github.com/alwell/Zolag_Archive](https://github.com/alwell/Zolag_Archive)
 
-### Open Library Lists for beginners and advanced.
-
-[https://openlibrary.org/people/alanweller/lists](https://openlibrary.org/people/alanweller/lists)
 
 ### Books which can be read online
 
