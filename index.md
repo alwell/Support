@@ -48,6 +48,10 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 
 [http://www.palitext.com/](http://www.palicanon.org/)
 
+#### Pali Glossary
+
+[http://alwell.github.io/Zolag_Archive/Pali%20Glossary/pg](http://alwell.github.io/Zolag_Archive/Pali%20Glossary/pg)
+
 #### Photos of Buddhist Holy Places
 [https://www.flickr.com/photos/zolag/sets/72157644316174252/](https://www.flickr.com/photos/zolag/sets/72157644316174252/)
 
