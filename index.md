@@ -16,12 +16,9 @@ Original files for editing can be found here: [https://github.com/alwell/Zolag_A
 [https://alwell.github.io/Support/ADL_support](https://alwell.github.io/Support/ADL_support)
 
 
-#### News
-Twitter feed [https://twitter.com/AlanWeller](https://twitter.com/AlanWeller)
+#### News Blog
+[https://alwell.github.io/](https://alwell.github.io/)
 
-#### Work in Progress:
-
-[https://github.com/alwell/Zolag_Archive/wiki](https://github.com/alwell/Zolag_Archive/wiki)
 
 ####  Mailing List
 
@@ -40,10 +37,6 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 
 ### Resources:
 
-#### Why mindfulness may be harming pupils? See link below:
-
-[https://alwell.github.io/Misconceptions-in-Mindfulness/](https://alwell.github.io/Misconceptions-in-Mindfulness/)
-
 #### Online resources for the Pali Canon here:
 
 [http://www.palitext.com/](http://www.palicanon.org/)
@@ -52,9 +45,6 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 
 [http://alwell.github.io/Zolag_Archive/Pali%20Glossary/pg](http://alwell.github.io/Zolag_Archive/Pali%20Glossary/pg)
 
-#### Photos of Buddhist Holy Places
-[https://www.flickr.com/photos/zolag/sets/72157644316174252/](https://www.flickr.com/photos/zolag/sets/72157644316174252/)
-
 #### Abhidhamma.org
 [http://www.abhidhamma.org/](http://www.abhidhamma.org/)
 
@@ -62,9 +52,6 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 #### What ever happened to Mrs Buddha? (Zolag-FAQ).
 
 [http://alwell.github.io/Buddhism_FAQ/](http://alwell.github.io/Buddhism_FAQ/)
-
-#### Online presentations
-[14 Big Ideas of Buddhism and others](http://alwell.github.io/Decks/)
 
 #### YouTube
 [YouTube channel link](https://www.youtube.com/channel/UCWFU7FoWO_uVoITo-eYgNuQ?view_as=subscriber)
