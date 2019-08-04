@@ -38,4 +38,10 @@ A short 5 page article.
 
 [https://archive.org/embed/AbhidhammaInDailyLife](https://archive.org/embed/AbhidhammaInDailyLife)
 
+#### Interview with Nina van Gorkom
+
+An interview with the author of Abhidhamma in daily Life, Nina van Gorkom about Abhidhamma.
+
+[https://archive.org/details/interview_201908](https://archive.org/details/interview_201908)
+
 
