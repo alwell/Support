@@ -40,7 +40,7 @@ A short 5 page article.
 
 #### Interview with Nina van Gorkom
 
-An interview with the author of Abhidhamma in daily Life, Nina van Gorkom about Abhidhamma.
+An interview with the author of Abhidhamma in Daily Life, Nina van Gorkom about Abhidhamma.
 
 [https://archive.org/details/interview_201908](https://archive.org/details/interview_201908)
 
