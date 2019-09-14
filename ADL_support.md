@@ -1,5 +1,9 @@
 ## Support for 'Abhidhamma in Daily Life'
 
+#### Promotional video
+
+[https://youtu.be/LpOuNHuRGQg](https://youtu.be/LpOuNHuRGQg)
+
 #### Press release for Abhidhamma in Daily Life
 
 [https://alwell.github.io/Book_details/adl_pr](https://alwell.github.io/Book_details/adl_pr)
