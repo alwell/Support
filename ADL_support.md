@@ -8,6 +8,10 @@
 
 [https://alwell.github.io/Book_details/adl_pr](https://alwell.github.io/Book_details/adl_pr)
 
+#### Abidhamma-the first page
+
+[https://youtu.be/K0lDt7C06IE](https://youtu.be/K0lDt7C06IE)
+
 #### 'Why Abidhamma in Daily Life' HaikuDeck presentation
 
 [https://haikudeck.com/p/e948ec1798](https://haikudeck.com/p/e948ec1798)
@@ -38,7 +42,7 @@ A short 5 page article.
 
 [https://alwell.github.io/Support/ur](https://alwell.github.io/Support/ur)
 
-#### Abhidhamma in Daily Life Content
+#### Abhidhamma in Daily Life PDF
 
 [https://archive.org/embed/AbhidhammaInDailyLife](https://archive.org/embed/AbhidhammaInDailyLife)
 
