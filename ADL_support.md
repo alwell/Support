@@ -12,6 +12,10 @@
 
 [https://youtu.be/K0lDt7C06IE](https://youtu.be/K0lDt7C06IE)
 
+#### The Mijn interview
+
+[https://youtu.be/5Xu7SOz4d3A](https://youtu.be/5Xu7SOz4d3A)
+
 #### 'Why Abidhamma in Daily Life' HaikuDeck presentation
 
 [https://haikudeck.com/p/e948ec1798](https://haikudeck.com/p/e948ec1798)
