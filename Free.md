@@ -17,4 +17,4 @@ Original files for editing can be found here: [https://github.com/alwell/Zolag_A
 - [A Survey of Paramattha Dhammas (hardback only), author Sujin Boriharnwanaket](https://zolag-2.gitbook.io/a-survey-of-paramatta-dhammas/)
 - Letters on Vipassanā, author Nina van Gorkom. Published 1st November 2018. Book details: [https://alwell.github.io/Book_details/LoV](https://alwell.github.io/Book_details/LoV)
 - Introduction to the Buddhist Scriptures, author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/ittbs](https://alwell.github.io/Book_details/ittbs)
-- The Northern Line to High Reality via Bank, author and photographer Alan Weller. [Promo video](https://youtu.be/XeVEX9dGVTY). Book details: [https://alwell.github.io/Northernline/nlmetta.html](https://alwell.github.io/Northernline/nlmetta.html). Book support: [https://alwell.github.io/Northernline/](https://alwell.github.io/Northernline/)
+
