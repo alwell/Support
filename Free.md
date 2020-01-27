@@ -9,7 +9,7 @@ Original files for editing can be found here: [https://github.com/alwell/Zolag_A
 
 - [The Buddha's Path, author Nina van Gorkom.](https://zolag-2.gitbook.io/the-buddha-s-path/)
 - Cetasikas (hardback), author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/cetasika](https://alwell.github.io/Book_details/cetasika)
-- Buddhism in Daily Life  (hardback only), author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/bdl](https://alwell.github.io/Book_details/bdl)
+-  [Buddhism in Daily Life  (hardback only), author Nina van Gorkom](https://zolag-2.gitbook.io/buddhism-in-daily-life/)
 - Abhidhamma in Daily Life  (hardback only), author Nina van Gorkom. [Promotional video](https://youtu.be/LpOuNHuRGQg). Press Release: [https://alwell.github.io/Book_details/adl_pr](https://alwell.github.io/Book_details/adl_pr). 
 Book details: [https://alwell.github.io/Book_details/adl](https://alwell.github.io/Book_details/adl). Dedicated support site: [https://alwell.github.io/Support/ADL_support](https://alwell.github.io/Support/ADL_support)
 - The Conditionality of life, author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/col](https://alwell.github.io/Book_details/col)
