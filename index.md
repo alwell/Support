@@ -8,12 +8,9 @@ Our Archive can be found here [Archive.org](http://archive.org/bookmarks/Alan%20
 Original files for editing can be found here: [https://github.com/alwell/Zolag_Archive](https://github.com/alwell/Zolag_Archive)
 
 
-### Books which can be read online
+### Books and articles free online
 
-[https://legacy.gitbook.com/@alwell/](https://legacy.gitbook.com/@alwell)
-
-### Why study Abhidhamma?
-[https://alwell.github.io/Support/ADL_support](https://alwell.github.io/Support/ADL_support)
+[https://github.com/alwell/Zolag_Archive/Support/Free](https://github.com/alwell/Zolag_Archive/Support/Free)
 
 
 #### News Blog
