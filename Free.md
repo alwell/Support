@@ -7,7 +7,7 @@ Original files for editing can be found here: [https://github.com/alwell/Zolag_A
 
 ### Books which can be read online
 
-- The Buddha's Path, author Nina van Gorkom. [https://zolag-2.gitbook.io/the-buddha-s-path/]{https://zolag-2.gitbook.io/the-buddha-s-path/}
+- The Buddha's Path, author Nina van Gorkom. [The Buddha's Path, author Nina van Gorkom.]{https://zolag-2.gitbook.io/the-buddha-s-path/}
 - Cetasikas (hardback), author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/cetasika](https://alwell.github.io/Book_details/cetasika)
 - Buddhism in Daily Life  (hardback only), author Nina van Gorkom. Book details: [https://alwell.github.io/Book_details/bdl](https://alwell.github.io/Book_details/bdl)
 - Abhidhamma in Daily Life  (hardback only), author Nina van Gorkom. [Promotional video](https://youtu.be/LpOuNHuRGQg). Press Release: [https://alwell.github.io/Book_details/adl_pr](https://alwell.github.io/Book_details/adl_pr). 
