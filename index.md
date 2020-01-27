@@ -13,10 +13,6 @@ Original files for editing can be found here: [https://github.com/alwell/Zolag_A
 [https://alwell.github.io/Support/Free](https://alwell.github.io/Support/Free)
 
 
-#### News Blog
-[https://alwell.github.io/](https://alwell.github.io/)
-
-
 ####  Mailing List
 
 [Dhamma Study Group](https://groups.io/g/dsg)
