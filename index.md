@@ -10,7 +10,7 @@ Original files for editing can be found here: [https://github.com/alwell/Zolag_A
 
 ### Books and articles free online
 
-[https://alwell.github.io/Support/Free.md](https://alwell.github.io/Support/Free.md)
+[https://alwell.github.io/Support/Free](https://alwell.github.io/Support/Free)
 
 
 ####  Mailing List
