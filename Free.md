@@ -16,6 +16,7 @@ Original files for editing can be found here: [https://github.com/alwell/Zolag_A
 
 ### Articles for beginners
 - a quarter page article [Abhidhamma in Daily Life press release](https://zolag-2.gitbook.io/zolag-ebooks/)
-- 5 page interview with Nina van Gorkom about the Abhidhamma [The Mijn Interview](https://zolag-2.gitbook.io/mijn-interview/) - - 5 page article [Understanding Reality](https://zolag-2.gitbook.io/understanding-reality/)
+- 5 page interview with Nina van Gorkom about the Abhidhamma [The Mijn Interview](https://zolag-2.gitbook.io/mijn-interview/)
+- 5 page article [Understanding Reality](https://zolag-2.gitbook.io/understanding-reality/)
 
 
