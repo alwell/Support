@@ -19,7 +19,7 @@
 
 - [https://haikudeck.com/p/e948ec1798](https://haikudeck.com/p/e948ec1798)
 
-#### Abhidhamma in Daily Life online
+#### Abhidhamma in Daily Life online book
 
 - [https://zolag-2.gitbook.io/abhidhamma_in_daily_life/](https://zolag-2.gitbook.io/abhidhamma_in_daily_life/)
 
