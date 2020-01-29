@@ -14,4 +14,8 @@ Original files for editing can be found here: [https://github.com/alwell/Zolag_A
 - [Introduction to Abhidhamma](https://zolag-2.gitbook.io/introduction-to-abhidhamma/)
 - [A Survey of Paramattha, author Sujin Boriharnwanaket](https://zolag-2.gitbook.io/a-survey-of-paramatta-dhammas/)
 
+### Articles for beginners
+- a quarter page article [Abhidhamma in Daily Life press release](https://zolag-2.gitbook.io/zolag-ebooks/)
+- a 5 page interview with Nina van Gorkom about the Abhidhamma [The Mijn Interview](https://zolag-2.gitbook.io/mijn-interview/) - a 5 page article [Understanding Reality](https://zolag-2.gitbook.io/understanding-reality/)
+
 
