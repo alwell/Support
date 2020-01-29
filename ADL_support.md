@@ -15,9 +15,9 @@
 - Why Abhidhamma? [https://youtu.be/YJVepJsRm3o](https://youtu.be/YJVepJsRm3o)
 - Understanding Anatta [https://youtu.be/s1lMyPl5ZXg](https://youtu.be/s1lMyPl5ZXg)
 
-#### 'Why Abidhamma in Daily Life' HaikuDeck presentation
+####  Presentation online
 
-- [https://haikudeck.com/p/e948ec1798](https://haikudeck.com/p/e948ec1798)
+- [Why Abidhamma in Daily Life](https://haikudeck.com/p/e948ec1798)
 
 #### Abhidhamma in Daily Life online book
 
