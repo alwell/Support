@@ -1,20 +1,20 @@
 ## Support for 'Abhidhamma in Daily Life'
 
+#### Articles for beginners
+- a quarter page article [Abhidhamma in Daily Life press release](https://zolag-2.gitbook.io/zolag-ebooks/)
+- 5 page interview with Nina van Gorkom about the Abhidhamma [The Mijn Interview](https://zolag-2.gitbook.io/mijn-interview/)
+- 5 page article [Understanding Reality](https://zolag-2.gitbook.io/understanding-reality/)
+
 #### Promotional video
 
 [https://youtu.be/LpOuNHuRGQg](https://youtu.be/LpOuNHuRGQg)
 
-#### Press release for Abhidhamma in Daily Life
 
-[https://alwell.github.io/Book_details/adl_pr](https://alwell.github.io/Book_details/adl_pr)
 
 #### Abidhamma-the first page
 
 [https://youtu.be/K0lDt7C06IE](https://youtu.be/K0lDt7C06IE)
 
-#### The Mijn interview
-
-[https://youtu.be/5Xu7SOz4d3A](https://youtu.be/5Xu7SOz4d3A)
 
 #### 'Why Abidhamma in Daily Life' HaikuDeck presentation
 
@@ -40,15 +40,11 @@ Extract from 'Introduction to the Buddhist Scriptures'
 [https://alwell.github.io/Support/adlinscript](https://alwell.github.io/Support/adlinscript)
 
 
-#### Understanding Reality
-
-A short 5 page article.
-
 [https://alwell.github.io/Support/ur](https://alwell.github.io/Support/ur)
 
-#### Abhidhamma in Daily Life PDF
+#### Abhidhamma in Daily Life online
 
-[https://archive.org/embed/AbhidhammaInDailyLife](https://archive.org/embed/AbhidhammaInDailyLife)
+[https://zolag-2.gitbook.io/abhidhamma_in_daily_life/](https://zolag-2.gitbook.io/abhidhamma_in_daily_life/)
 
 #### Interview with Nina van Gorkom
 
