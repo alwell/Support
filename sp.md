@@ -1,1 +1,6 @@
-# Support for the book A Survey of Paramattha Dhammas
+## Support for A Survey of Paramattha Dhammas
+
+#### Videos
+
+- What is citta
+- Why do we study the details
