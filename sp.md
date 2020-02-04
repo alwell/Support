@@ -1,4 +1,4 @@
-## Support for A Survey of Paramattha Dhammas
+## Support for Survey of Paramattha Dhammas
 
 #### Videos
 
