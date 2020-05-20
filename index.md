@@ -24,7 +24,7 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 [Edited audio discussions](http://www.dhammastudygroup.org)
 
 #### Dhamma Study and Support Foundation
-[http://www.dhammahome.com/home_en.php](http://www.dhammahome.com/home_en.php)
+[http://www.dhammahome.com/en](http://www.dhammahome.com/en)
 
 ---
 
@@ -49,9 +49,6 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 #### YouTube
 [YouTube channel link](https://www.youtube.com/channel/UCWFU7FoWO_uVoITo-eYgNuQ?view_as=subscriber)
 
-#### Sarah's notes
-
-<https://alwell.github.io/Sarah-s-notes/>
 
 
 
