@@ -12,6 +12,9 @@ Original files for editing can be found here: [https://github.com/alwell/Zolag_A
 
 [https://alwell.github.io/Support/Free](https://alwell.github.io/Support/Free)
 
+### NEWS update
+Buddhism and the fear of Covid-19 article.
+[https://archive.org/details/buddhism-and-the-fear-of-covid-19](https://archive.org/details/buddhism-and-the-fear-of-covid-19)
 
 ####  Mailing List
 
@@ -47,7 +50,10 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 [http://alwell.github.io/Buddhism_FAQ/](http://alwell.github.io/Buddhism_FAQ/)
 
 #### YouTube
-[YouTube channel link](https://www.youtube.com/channel/UCWFU7FoWO_uVoITo-eYgNuQ?view_as=subscriber)
+Dhamma Home: [https://www.youtube.com/channel/UC0th6bYVYT-MlovZPSqMUKQ](https://www.youtube.com/channel/UC0th6bYVYT-MlovZPSqMUKQ)
+
+
+[Alan Weller personal YouTube](https://www.youtube.com/channel/UCWFU7FoWO_uVoITo-eYgNuQ?view_as=subscriber)
 
 
 
