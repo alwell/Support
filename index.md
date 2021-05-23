@@ -51,6 +51,7 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 
 #### YouTube
 Dhamma Home: [https://www.youtube.com/channel/UC0th6bYVYT-MlovZPSqMUKQ](https://www.youtube.com/channel/UC0th6bYVYT-MlovZPSqMUKQ)
+
 Alan Weller: [https://www.youtube.com/user/AlanWeller/videos](https://www.youtube.com/user/AlanWeller/videos)
 
 #### Pictures of Buddhist Places
