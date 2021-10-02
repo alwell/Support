@@ -44,6 +44,9 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 #### Abhidhamma.org
 [http://www.abhidhamma.org/](http://www.abhidhamma.org/)
 
+#### Dhamma discussions with Ajahn Sujin in English, EN-CN, EN-VN 
+[https://dhammatranscripts.blogspot.com/](https://dhammatranscripts.blogspot.com/)
+
 
 #### What ever happened to Mrs Buddha? (Zolag-FAQ).
 
