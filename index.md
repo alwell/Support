@@ -53,7 +53,7 @@ A discussion forum for anyone interested in understanding the Buddha's teachings
 [http://alwell.github.io/Buddhism_FAQ/](http://alwell.github.io/Buddhism_FAQ/)
 
 #### YouTube
-Dhamma Home: [https://www.youtube.com/channel/UC0th6bYVYT-MlovZPSqMUKQ](https://www.youtube.com/channel/UC0th6bYVYT-MlovZPSqMUKQ)
+Dhammahometv: [https://www.youtube.com/channel/UC0th6bYVYT-MlovZPSqMUKQ](https://www.youtube.com/channel/UC0th6bYVYT-MlovZPSqMUKQ)
 
 Alan Weller: [https://www.youtube.com/user/AlanWeller/videos](https://www.youtube.com/user/AlanWeller/videos)
 
