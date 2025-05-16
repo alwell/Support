@@ -1,5 +1,6 @@
 ## Support for 'Abhidhamma in Daily Life'
-
+#### Sudy guide
+- [Abhidhamma in Daily Life-Book](https://alwell.github.io/Study-guides/abhidhamma_in_daily_life)
 #### Articles for beginners
 - a quarter page article [Abhidhamma in Daily Life press release](https://zolag-2.gitbook.io/zolag-ebooks/)
 - 5 page interview with Nina van Gorkom about the Abhidhamma [The Mijn Interview](https://zolag-2.gitbook.io/mijn-interview/)
