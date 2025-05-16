@@ -11,7 +11,7 @@
 #### Videos
 
 - Promotional video [https://youtu.be/LpOuNHuRGQg](https://youtu.be/LpOuNHuRGQg)
-- Abhidhamma YouTube Playlist: https://youtube.com/playlist?list=PLCEqXxm5o-4ytZF7BQyVNcOytE-R2lcdJ&si=gtsVFl03U1-PSe1S
+- Abhidhamma YouTube Playlist: [https://youtube.com/playlist?list=PLCEqXxm5o-4ytZF7BQyVNcOytE-R2lcdJ&si=gtsVFl03U1-PSe1S](https://youtube.com/playlist?list=PLCEqXxm5o-4ytZF7BQyVNcOytE-R2lcdJ&si=gtsVFl03U1-PSe1S)
 
 #### Abhidhamma in Daily Life online book
 
