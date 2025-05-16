@@ -11,14 +11,7 @@
 #### Videos
 
 - Promotional video [https://youtu.be/LpOuNHuRGQg](https://youtu.be/LpOuNHuRGQg)
-- Abidhamma-the first page [https://youtu.be/K0lDt7C06IE](https://youtu.be/K0lDt7C06IE)
-- Why Abhidhamma in Daily Life? [https://youtu.be/2c3Ek9R6oSs](https://youtu.be/2c3Ek9R6oSs)
-- Why Abhidhamma? [https://youtu.be/YJVepJsRm3o](https://youtu.be/YJVepJsRm3o)
-- Understanding Anatta [https://youtu.be/s1lMyPl5ZXg](https://youtu.be/s1lMyPl5ZXg)
-
-####  Presentation online
-
-- [Why Abidhamma in Daily Life](https://haikudeck.com/p/e948ec1798)
+- Abhidhamma YouTube Playlist: https://youtube.com/playlist?list=PLCEqXxm5o-4ytZF7BQyVNcOytE-R2lcdJ&si=gtsVFl03U1-PSe1S
 
 #### Abhidhamma in Daily Life online book
 
